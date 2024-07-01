@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Eim Solutions as an Developer Trainee<br>I'm looking to collaborate on MERN Stack projects.<br>I’m interested in Full Stack Web Development(MEAN)<br>I completed my bachelor's degree in Electronics...<br>I'm currently learning Angular<br>I'm based in India
+I'm currently working on Tactus Ventures as Software Developer<br>I'm looking to collaborate on MERN Stack projects.<br>I’m interested in Full Stack Web Development(MEAN)<br>I completed my bachelor's degree in Electronics...<br>I'm currently learning Angular<br>I'm based in India
 
 
 ## 🌐 Socials:
